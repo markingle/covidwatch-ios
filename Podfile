@@ -8,6 +8,7 @@ target 'COVIDWatch iOS' do
   # Pods for COVIDWatch
   pod 'Firebase/Firestore'
   pod 'FirebaseFirestoreSwift'
+  pod 'OnboardKit'
 
   target 'COVIDWatch iOSTests' do
     inherit! :search_paths
